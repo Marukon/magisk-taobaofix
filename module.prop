@@ -1,7 +1,6 @@
 id=taobaofix
 name=Taobao Force Stop Fix
-version=v2
-versionCode=2
+version=v2.1
+versionCode=3
 author=zhxh&xinweiliangi@Coolapk
 description=Fixing the forcestop of taobao app caused by xposed
-minMagisk=17000
