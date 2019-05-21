@@ -1,3 +1,7 @@
+# 声明
+本项目已不再更新，建议使用太极或者Edxposed等新式框架
+
+
 # A Magisk module: Fixing the forcestop of taobao app caused by xposed
 
 Engish description
